@@ -2,7 +2,7 @@
 
 Transform your text into professional PowerPoint presentations using AI-powered content structuring and template styling.
 
-🌐 **Live Demo**: [https://pptgenerator-production.up.railway.app/](https://pptgenerator-production.up.railway.app/)
+🌐 **Live Demo**: [https://ppt-generator-90d4.onrender.com/](https://ppt-generator-90d4.onrender.com/)
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ Transform your text into professional PowerPoint presentations using AI-powered 
    http://localhost:3001
    ```
    
-   Or try the live demo: [https://pptgenerator-production.up.railway.app/](https://pptgenerator-production.up.railway.app/)
+   Or try the live demo: [https://ppt-generator-90d4.onrender.com/](https://ppt-generator-90d4.onrender.com/)
 
 ### Development Mode
 
